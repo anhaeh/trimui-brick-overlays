@@ -1,4 +1,4 @@
-# Better GameBoy overlays for trimui brick/pro
+# GameBoy overlays for trimui brick/pro
 
 Overlay repository for TrimUI Brick / Brick Pro at 1024x768px. The original overlays were improved with higher-quality logo images and/or LED lighting.
 
